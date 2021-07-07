@@ -1,0 +1,98 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2021-07-04T01:36:28.682Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3680319500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Verify All Text In Dropdown",
+        "description": "",
+        "id": "test-dropdown;verify-all-text-in-dropdown",
+        "after": [
+          {
+            "result": {
+              "duration": 649833300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11282602300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Launch Application",
+            "match": {
+              "location": "steps.CommonStepDefinitions.launch_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3219904000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Verify All Text in Skills dropdown field",
+            "match": {
+              "location": "steps.Register_SD.verify_All_Text_in_Skills_dropdown_field()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Sanity"
+          },
+          {
+            "name": "@TestDropdown"
+          },
+          {
+            "name": "@TestDropdown_VerifyAllText"
+          }
+        ]
+      }
+    ],
+    "name": "Test Dropdown",
+    "description": "  Feature To Test Dropdown",
+    "id": "test-dropdown",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/TestDropdown.feature",
+    "tags": [
+      {
+        "name": "@Sanity",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@TestDropdown",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

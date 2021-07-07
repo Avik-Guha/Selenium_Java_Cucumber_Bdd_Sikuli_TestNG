@@ -1,0 +1,8 @@
+steps\CommonStepDefinitions.class
+global\Base.class
+utility\CommonFunctions.class
+steps\Register_SD.class
+objects\Register_OB.class
+hooks\Hooks.class
+pages\Register_BC.class
+runner\TestRunner.class

@@ -1,0 +1,4 @@
+{
+	"SetBrowser": "chrome",
+	"ExecuteInHeadlessMode": "false"
+}
