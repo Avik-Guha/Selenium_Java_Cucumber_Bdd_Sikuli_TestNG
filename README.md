@@ -57,7 +57,7 @@ All set!!! Just download the Project folder...
 		
 		log4j2.properties --> properties file for log4j2
 		
-		extent.xml, extent.properties --> configuration file for Extent Reports
+		extent-config.xml, extent.properties --> configuration file for Extent Reports
 	
 	logs --> execution logs is generated here by log4j2
 	
