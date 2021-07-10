@@ -1,4 +1,4 @@
-# Selenium_Java_Cucumber_BDD_Sikuli_JUnit
+# Selenium_Java_Cucumber_BDD_Sikuli_TestNG
 
 This is an Web Automation Testing framework using:
 
