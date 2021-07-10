@@ -5,7 +5,7 @@ This is an Web Automation Testing framework using:
 	Selenium
 	Java
 	Cucumber BDD
-	log4js
+	log4j2
 	Sikuli
 	Maven
 	TestNG
